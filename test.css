@@ -1,0 +1,19 @@
+.nav ul {
+    background-color: aqua;
+    height: 4rem;
+    width: 95%;
+    background-image: url(/img/1.jpg);
+}
+
+ul {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+
+}
+
+a {
+    text-decoration: none;
+    color: darkgoldenrod;
+}
